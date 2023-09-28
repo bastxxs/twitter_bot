@@ -4,11 +4,10 @@ from datetime import datetime, timedelta
 import requests
 
 
-consumer_key = 'fsI5uFVCzV60oQnTvXhmQtXYk'
-consumer_secret = '13oknuDNVChj0zWv6auOmwTWnW1lEMFu7t6PZlfcZQ3PjEJgsF'
-access_token = '778215241272492032-UIX9V5L80Q0pF09N7EJbpUZB1iwdCaA'
-access_token_secret = 'EZukMritDom5p7RVGOZpli4Bx8Y34fZgKU1r8a87GY6t2'
-#bearer_token = 'AAAAAAAAAAAAAAAAAAAAAH9XgAEAAAAA5ZUGRR7TMbIx3mNxQRrq1oSYBKA%3DnTTpR0iv8N8w1GgxeDYKlRLj9y5sOeJ56BJOy0rNbeOrn4YJ0B'
+consumer_key = 'XXXXXXXXXX'
+consumer_secret = 'XXXXXXXXXX'
+access_token = 'XXXXXXXXXX'
+access_token_secret = 'XXXXXXXXXX'
 
 
 api_cotacao = "http://api.exchangeratesapi.io/v1/latest?access_key=86f3a9da78b0e2d98c519f582fdc835b"
