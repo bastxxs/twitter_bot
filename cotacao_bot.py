@@ -10,7 +10,7 @@ access_token = 'XXXXXXXXXX'
 access_token_secret = 'XXXXXXXXXX'
 
 
-api_cotacao = "http://api.exchangeratesapi.io/v1/latest?access_key=86f3a9da78b0e2d98c519f582fdc835b"
+api_cotacao = "http://api.exchangeratesapi.io/v1/latest?access_key=XXXXXXXXX"
 
 # Autenticar com a API do Twitter
 
